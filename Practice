@@ -44,7 +44,7 @@ from
   department d
   on e.department = d.id
 where 
-  p.project_name = 'Plan christmas party'
+  p.project_name = 'Watch paint dry'
   and
   d.dept_name = 'Warehouse';
 
